@@ -1,0 +1,9 @@
+[package]
+name = "winit_example_0_3_0"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+wgpu = "*"
+pollster = "*"
+winit = "*"
